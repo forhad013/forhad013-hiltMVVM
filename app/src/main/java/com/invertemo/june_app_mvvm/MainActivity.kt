@@ -5,6 +5,7 @@ import android.os.Bundle
 
 //inital commit
 //test1
+//test2
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
