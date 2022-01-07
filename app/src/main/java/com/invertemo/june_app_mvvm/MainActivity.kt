@@ -3,7 +3,7 @@ package com.invertemo.june_app_mvvm
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-
+//initial comment
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
